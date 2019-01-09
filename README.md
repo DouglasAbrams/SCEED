@@ -1,5 +1,5 @@
 # SCEED
-###### A computational method to aid the design and analysis of single cell RNA-seq experiments for cell type identification
+##### A computational method to aid the design and analysis of single cell RNA-seq experiments for cell type identification
 
 ### Background
 
